@@ -1,0 +1,114 @@
+{
+    "name": "CustomInput",
+    "maps": [
+        {
+            "name": "Main",
+            "id": "44415db2-5d43-4030-97fc-49c028718d6e",
+            "actions": [
+                {
+                    "name": "KeyDownC",
+                    "type": "Button",
+                    "id": "346d8477-0633-42fe-afca-039706692f0a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "KeyDownX",
+                    "type": "Button",
+                    "id": "e2a69cf0-33ef-4f4b-b43e-ae51628634a5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "KeyDownS",
+                    "type": "Button",
+                    "id": "b571de61-ae4b-4690-9bc9-62035da9bf53",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "KeyDownZ",
+                    "type": "Button",
+                    "id": "b041f903-1e01-48b2-a6d6-4114e5558e58",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "KeyDownD",
+                    "type": "Button",
+                    "id": "d85594f0-29e2-42fc-92ba-48e42b21484f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "741a09d2-a2dc-4f0c-af7d-7cf499aaabef",
+                    "path": "<Keyboard>/c",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "KeyDownC",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0892f150-8fea-48ff-9293-517864a17eaa",
+                    "path": "<Keyboard>/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "KeyDownX",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1fa22ec4-611c-4165-8670-3ed942f085cf",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "KeyDownS",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "af421055-4306-46dd-84e0-58fba1b0b067",
+                    "path": "<Keyboard>/z",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "KeyDownZ",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fda88048-48b4-43bb-91df-85cd1f7fd37a",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "KeyDownD",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
